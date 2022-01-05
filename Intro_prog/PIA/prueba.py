@@ -1,0 +1,2 @@
+descripción = "Reloj"
+print(descripción)
